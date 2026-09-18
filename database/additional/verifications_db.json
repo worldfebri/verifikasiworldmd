@@ -3,8 +3,11 @@
     "id": "mu7hfom3umnudv",
     "accountId": "mu3woeagsdo89x",
     "code": "665062",
-    "status": "pending",
+    "status": "verified",
     "createdAt": 1789767628635,
-    "expiresAt": 1789768228635
+    "expiresAt": 1789768228635,
+    "telegramId": "1869797810",
+    "telegramUsername": "@worldmarketvip",
+    "verifiedAt": 1789767656712
   }
 ]
